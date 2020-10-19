@@ -48,4 +48,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/an
 ### REACT PROJECT
 GB GB GB GB GB GB GB GB GB GB
 
+### AKU CINTA HACKTOBERFEST :)
 
